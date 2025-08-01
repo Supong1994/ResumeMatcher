@@ -1,0 +1,13 @@
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+Use predictive modelling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Experienced in working with large and multiple datasets, data warehouses and ability to pull data using relevant programs and coding.
+Well versed with necessary data reprocessing and feature engineering skills.
+Strong background in Statistical Analysis. Constantly look and research on ML algorithms and data sources for better prediction
+Work and coordinate with multiple stakeholders to identify opportunities for leveraging company data to drive business solutions, implement models and monitor outcomes.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques and develop processes and tools to monitor and analyze model performance and data accuracy.
+Experience in establishing/scaling up data science functions
+Proven ability to discover solutions hidden in large datasets and to drive business results with their data-based insights
+Leverage analytics to increase customer lifetime value for clients acquired digitally by pitching right product to the right client at the right time
+Help define pricing models for digital value propositions for various segments of users / clients to ensure profitability of the portfolio and to ensure achievement of business outcomes
+Work with product, growth, and marketing teams across product/campaign lifecycle
+Empower product and marketing teams by creating automated dashboards and reports using PowerBI
